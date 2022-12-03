@@ -1,0 +1,8 @@
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\bin\Debug\BOLSHEE.exe.config
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\bin\Debug\BOLSHEE.exe
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\bin\Debug\BOLSHEE.pdb
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\obj\Debug\BOLSHEE.csproj.AssemblyReference.cache
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\obj\Debug\BOLSHEE.csproj.SuggestedBindingRedirects.cache
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\obj\Debug\BOLSHEE.csproj.CoreCompileInputs.cache
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\obj\Debug\BOLSHEE.exe
+C:\Users\karpa\source\repos\BOLSHEE\BOLSHEE\obj\Debug\BOLSHEE.pdb
